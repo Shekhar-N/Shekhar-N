@@ -65,26 +65,20 @@ I’m a **Data Engineer** specializing in designing, building, and optimizing **
 
 ## 📌 Featured Projects
 
-<div align="center">
+- 🚀 **[Lead Scoring Case Study](https://github.com/Shekhar-N/Lead-Scoring-Case-Study)**  
+  End-to-end data analysis & feature engineering pipeline for lead conversion modeling.
 
-<a href="https://github.com/Shekhar-N/Lead-Scoring-Case-Study">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shekhar-N&repo=Lead-Scoring-Case-Study&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Shekhar-N/LeetCode">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shekhar-N&repo=LeetCode&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+- 🧠 **[LeetCode Practice](https://github.com/Shekhar-N/LeetCode)**  
+  SQL, Python, and algorithmic problem solving for data engineering interviews.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shekhar-N&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Shekhar-N&theme=tokyonight&hide_border=true"/>
-</div>
+- 📦 Active repositories with real-world data engineering projects  
+- 🧠 Consistent practice in SQL, Python, and data structures  
+- 🔄 Regular commits focused on learning & experimentation  
+- 🚀 Hands-on work with Spark, ETL pipelines, and analytics use cases
 
 ---
 
