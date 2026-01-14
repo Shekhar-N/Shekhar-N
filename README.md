@@ -65,11 +65,11 @@ I’m a **Data Engineer** specializing in designing, building, and optimizing **
 
 ## 📌 Featured Projects
 
+- 🧠 **[Stock Market Analysis](https://github.com/Shekhar-N/Stock_Market_Analysis)**  
+  This project implements a near real-time stock market analytics pipeline using PySpark Structured Streaming and open-source tools only.
+
 - 🚀 **[Lead Scoring Case Study](https://github.com/Shekhar-N/Lead-Scoring-Case-Study)**  
   End-to-end data analysis & feature engineering pipeline for lead conversion modeling.
-
-- 🧠 **[LeetCode Practice](https://github.com/Shekhar-N/LeetCode)**  
-  SQL, Python, and algorithmic problem solving for data engineering interviews.
 
 ---
 
